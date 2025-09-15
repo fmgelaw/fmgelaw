@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fikirte Gelaw</h1>
-<h3 align="center">Passionate about Salesforce development and System integration, building on strong APIs and middleware background.</h3>
+<h3 align="center">Salesforce development | System integration, strong APIs and middleware background.</h3>
 
 <div align="center">
 
