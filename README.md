@@ -34,7 +34,7 @@
 <!-- <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtX&oid=00DF0000000gZsu&lastMod=1617267315000" height="100" alt="JavaScript Developer 1"/>-->
 <!--  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mth&oid=00DF0000000gZsu&lastMod=1617268556000" height="100" alt="Platform Developer 2"/> -->
 
- <img src="certification-badge\SF-Certified_Adminis.png" height="100" alt="Salesforce Administrator"/>   <img src="certification-badge\SF-Certified_Platform-Developer-I.png" height="100" alt="Platform Developer I" />
+ <img src="certification-badge\SF-Certified_Adminis.png" height="100" alt="Salesforce Administrator"/>   <img src="certification-badge\SF-Certified_Platform-Developer-I.png" height="100" alt="Platform Developer I" />  <img src="certification-badge\mulesoft-cert-badge" height="100" alt="MuleSoft Developer" />
 
 </div>
 
