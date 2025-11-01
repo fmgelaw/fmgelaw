@@ -28,7 +28,7 @@
 
 # ☁ Salesforce Credentials
 
-<div align="left" style="border:0px;>
+<div align="left" style="border:0px;">
 <img src="certification-badge\SF-Certified_Adminis.png" height="100" alt="Salesforce Administrator"/>   <img src="certification-badge\SF-Certified_Platform-Developer-I.png" height="100" alt="Platform Developer I" />  <img src="certification-badge\mulesoft-cert-badge.png" height="100" alt="MuleSoft Developer" />
 
 </div>
